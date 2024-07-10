@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.NET\\A .Net core mvc\\CinemaSuite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBB8B72-9C87-487C-B13C-7B5D9459CEDB}|CinemaSuite\\CinemaSuite.csproj|c:\\.net\\a .net core mvc\\cinemasuite\\cinemasuite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBB8B72-9C87-487C-B13C-7B5D9459CEDB}|CinemaSuite\\CinemaSuite.csproj|solutionrelative:cinemasuite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3472DEEB-E80F-4041-B0E2-1C089B244E11}|CinemaSuite.DataAccess\\CinemaSuite.DataAccess.csproj|c:\\.net\\a .net core mvc\\cinemasuite\\cinemasuite.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3472DEEB-E80F-4041-B0E2-1C089B244E11}|CinemaSuite.DataAccess\\CinemaSuite.DataAccess.csproj|solutionrelative:cinemasuite.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBCB0BB-6E33-42B4-B68E-02DF37E53647}|CinemaSuite.Models\\CinemaSuite.Models.csproj|c:\\.net\\a .net core mvc\\cinemasuite\\cinemasuite.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBCB0BB-6E33-42B4-B68E-02DF37E53647}|CinemaSuite.Models\\CinemaSuite.Models.csproj|solutionrelative:cinemasuite.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\.NET\\A .Net core mvc\\CinemaSuite\\CinemaSuite\\Program.cs",
+              "RelativeDocumentMoniker": "CinemaSuite\\Program.cs",
+              "ToolTip": "C:\\.NET\\A .Net core mvc\\CinemaSuite\\CinemaSuite\\Program.cs",
+              "RelativeToolTip": "CinemaSuite\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:12:29.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\.NET\\A .Net core mvc\\CinemaSuite\\CinemaSuite.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CinemaSuite.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\.NET\\A .Net core mvc\\CinemaSuite\\CinemaSuite.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CinemaSuite.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:12:04.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\.NET\\A .Net core mvc\\CinemaSuite\\CinemaSuite.Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "CinemaSuite.Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\.NET\\A .Net core mvc\\CinemaSuite\\CinemaSuite.Models\\ApplicationUser.cs",
+              "RelativeToolTip": "CinemaSuite.Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:11:25.218Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
